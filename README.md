@@ -21,7 +21,7 @@ https://rick-and-morty-db-ebon.vercel.app/
 - Episode Characters
 - Loccation Characters
 - Episodes, locations, characters serach
-- Charactrs filter
+- Charactrs sort
 
 
 ## Run Locally
