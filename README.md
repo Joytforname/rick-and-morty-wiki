@@ -1,5 +1,5 @@
 
-# Rick and Mortry DB
+# Rick and Mortry wiki
 
 Rick and Morty characters, locations, episodes database
 
