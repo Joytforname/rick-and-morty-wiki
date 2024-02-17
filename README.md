@@ -1,7 +1,7 @@
 
 # Rick and Mortry DB
 
-A brief description of what this project does and who it's for
+Rick and Morty characters, locations, episodes database
 
 
 ## Screenshots
