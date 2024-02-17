@@ -6,7 +6,7 @@ A brief description of what this project does and who it's for
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/MZWLJVm/Rick-and-Morty-DB-screenshot.png)
+![App Screenshot](https://i.ibb.co/3pfNkVZ/image.png)    
 
 ## Demo
 
