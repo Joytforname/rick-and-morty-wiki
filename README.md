@@ -10,7 +10,7 @@ A brief description of what this project does and who it's for
 
 ## Demo
 
-later
+https://rick-and-morty-db-ebon.vercel.app/
 
 ## Features
 
