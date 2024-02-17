@@ -1,8 +1,57 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Rick and Mortry DB
 
-Currently, two official plugins are available:
+A brief description of what this project does and who it's for
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/MZWLJVm/Rick-and-Morty-DB-screenshot.png)
+
+## Demo
+
+later
+
+## Features
+
+- Locations
+- Episodes
+- Characters
+- Similar Characters
+- Episode Characters
+- Loccation Characters
+- Episodes, locations, characters serach
+- Charactrs filter
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone git@github.com:Joytforname/rick-and-morty-db.git
+```
+
+Go to the project directory
+
+```bash
+  cd rick-and-morty-db
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the SPA
+
+```bash
+  npm run dev
+```
+
+
+
+
+
+
