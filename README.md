@@ -44,7 +44,7 @@ Install dependencies
   npm install
 ```
 
-Start the SPA
+Start the APP
 
 ```bash
   npm run dev
